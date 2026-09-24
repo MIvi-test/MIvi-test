@@ -1,84 +1,35 @@
-# Ilya
+# Илья
 
-Information Security student at Peter the Great St. Petersburg Polytechnic University (SPbPU).
-Развиваюсь в направлениях DevOps, SRE и DevSecOps. Основной интерес — Linux, компьютерные сети, эксплуатация инфраструктуры.
-## About me
-Я академически изучаю информационную безопасность, Linux, компьютерые сети и тематику развертывания и эксплуатации llm систем в рамках микросервисной архитектуры.
-Особенно интересуюсь:
-- построением и эксплуатацией инфраструктуры;
-- диагностикой проблем в Linux-системах;
-- контейнеризация;
-- сетевым взаимодействием сервисов;
-- reverse proxy;
-- безопасностью приложений и контейнеров;
-Получаю практический опыт через учебные и личные проекты.
-## Tech Stack
+Студент СПбПУ, изучаю информационную безопасность и постепенно развиваюсь в сторону DevOps, SRE и DevSecOps.
 
-### Infrastructure
-- Linux
-- Docker
-- Docker Compose
-- reverse proxy
-- virtualization
-- basic system administration
-- Computer Networks
-### Development
-- Python
-- С
-- Requests
-- Aiogram
-- PostgreSQL(sqlAlchemy и базовый SQL)
-- FastAPI
+Мне интересно, как устроены инфраструктура и сервисы изнутри: Linux, компьютерные сети, контейнеры, микросервисная архитектура и их безопасная эксплуатация. Практические навыки получаю на учебных и личных проектах — разворачиваю сервисы, ищу проблемы и стараюсь понимать, почему они возникают.
 
-В области безопасности сторонник разработки через тестирования и развертки приложений в условиях наименьших привилегий.
-## То что будет изучено в течении года
+## Что изучаю
 
-Изучаю и последовательно развиваю следующие направления:
-
-1. CI/CD
-2. Observability
-3. Metrics: Prometheus и Grafana
-4. Best practices конфигурации reverse proxy:
-   - Nginx
-   - Caddy
-   - Pingora
-5. Application security
-6. Container security
-
-В дальнейшем переход на
-1. Kubernetes
-2. Infrastructure as Code
-
-## Current focus
-
-Сейчас я сосредоточен на:
-
-- Linux administration;
-- Computer Networks;
+- администрирование Linux и базовую настройку серверов;
+- компьютерные сети и взаимодействие сервисов;
 - Docker и Docker Compose;
-- CI/CD;
-- Observability;
-- application metrics;
-- reverse proxy configuration;
-- application security;
-- container security.
+- reverse proxy (Nginx, Caddy, Pingora);
+- разработку на Python и C;
+- FastAPI, Aiogram, Requests;
+- PostgreSQL, SQLAlchemy и базовый SQL;
+- безопасность приложений и контейнеров;
+- CI/CD и практики безопасного развёртывания.
 
-## Future goals
+В разработке придерживаюсь принципа наименьших привилегий и стараюсь проверять изменения тестами до развёртывания.
 
-В дальнейшем планирую углубиться в:
+## План развития
 
-- Kubernetes;
-- Infrastructure as Code;
-- production-grade monitoring;
-- reliability engineering;
-- secure deployment pipelines;
+В течение года хочу системно разобраться в observability: логировании, метриках и мониторинге с Prometheus и Grafana. Отдельно хочу научиться правильно настраивать оповещения и искать причины проблем по логам и метрикам — а не просто смотреть на них с надеждой.
 
-## Contacts
+![В логах ничего не нашёл](1739101801132033538.png)
+
+Дальше планирую перейти к Kubernetes, Infrastructure as Code, production-ready мониторингу и надёжности сервисов.
+
+## Контакты
 
 - Email: [mivi0it@gmail.com](mailto:mivi0it@gmail.com)
-- University email: [kolomijch_is@spbstu.ru](mailto:kolomijch_is@spbstu.ru)
+- Университетская почта: [kolomijch_is@spbstu.ru](mailto:kolomijch_is@spbstu.ru)
 - GitHub: [MIvi-test](https://github.com/MIvi-test)
 
----
-
-> Learning Linux, networks and infrastructure by building, breaking and fixing systems.
+> Изучаю Linux, сети и инфраструктуру на практике: разворачиваю, ломаю, диагностирую и исправляю.
